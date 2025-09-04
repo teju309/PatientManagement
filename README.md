@@ -1,7 +1,14 @@
 # Patient Management System – Microservices Architecture
 
-This project is a **production-grade microservices system** built step by step with **Spring Boot, gRPC, Kafka, Docker, API Gateway, Authentication, Testing, and AWS CloudFormation (IaC)**.  
+This project is a **proof-of-work demo** showcasing the technologies I work with in my professional career (***at Acara Systems***).  
+
+The purpose is to **demonstrate practical experience** with building microservices, integrating communication protocols (REST, gRPC, Kafka), implementing authentication and testing strategies, and deploying services with Docker and AWS Infrastructure as Code. 
+
 It demonstrates how to design and deploy scalable, secure, and event-driven systems.
+
+> **Disclaimer:**  
+> This is a **personal demo project** created solely for portfolio purposes.  
+> It is inspired by real-world systems but contains **original code** and **no proprietary or confidential information** from any past or current employer.
 
 ---
 
