@@ -10,13 +10,7 @@ It demonstrates how to design and deploy scalable, secure, and event-driven syst
 - [Architecture](#architecture)
 - [Tech Stack](#tech-stack)
 - [Services](#services)
-- [Chapters / Learning Path](#chapters--learning-path)
-- [Setup & Run](#setup--run)
-- [Deployment](#deployment)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ---
 
 ## 🚀 Introduction
